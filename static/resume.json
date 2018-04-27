@@ -1,0 +1,196 @@
+{
+  "name": "李志波",
+  "sex": "男",
+  "birthday": "1990-02-09",
+  "workSince": "2013-07-01",
+  "exp": [
+    "毕业",
+    "年工作",
+    "年"
+  ],
+  "nickname": "Steven",
+  "firstName": "Lee",
+  "lastName": "Primer",
+  "slogan": "Web前端开发",
+  "tips": "Command+p可以印本简历，打印时显示真名",
+  "education": "本科",
+  "phone": 17665361095,
+  "location": "Hangzhou·China",
+  "qq": {
+    "number": "869488698"
+  },
+  "website": "",
+  "github": "https://github.com/primerlee",
+  "email": "jxlizhibo@gmail.com",
+  "intro": {
+    "content": [
+      "至上份工作离职，自学前端开发相关知识，包括但不限于PC端和移动端Web开发。",
+      "熟练使用响应式和rem对各主流平台进行适配，会用Vue框架构建开发单页面应用。",
+      "海外两年的工作经验，有着不错的英语阅读和口语能力。",
+      "对于互联网和科技及数码感兴趣，属于偏向产品型人格。"
+    ],
+    "technology": {
+      "title": "用过的技术栈：",
+      "content": [
+        "scss",
+        "stylus",
+        "bootstrap",
+        "jquery",
+        "zepto",
+        "vue",
+        "node.js",
+        "webpack"
+      ]
+    }
+  },
+  "experience": [
+    {
+      "time": "2014.01-2016.01",
+      "title": "ROY SOLAR (NIG) LTD",
+      "intro": "总经理助理",
+      "description": "",
+      "tips": [
+        {
+          "title": "",
+          "content": [
+          ]
+        }
+      ],
+      "technology": [
+        {
+          "title": "",
+          "content": [
+          ]
+        }
+      ]
+    },
+    {
+      "time": "2013.07-2014.01",
+      "title": "上海如艺新能源科技有限公司",
+      "intro": "外贸",
+      "description": "",
+      "tips": [
+        {
+          "title": "",
+          "content": [
+          ]
+        }
+      ],
+      "technology": [
+        {
+          "title": "",
+          "content": [
+
+          ]
+        }
+      ]
+    }
+  ],
+  "skill": [
+    {
+      "name": "Html",
+      "percent": "90%"
+    },
+    {
+      "name": "Css",
+      "percent": "80%"
+    },
+    {
+      "name": "JavaScript",
+      "percent": "75%"
+    },
+    {
+      "name": "Jquery",
+      "percent": "70%"
+    },
+    {
+      "name": "zepto",
+      "percent": "65%"
+    },
+    {
+      "name": "Bootstrap",
+      "percent": "80%"
+    },
+    {
+      "name": "Vue",
+      "percent": "70%"
+    }
+  ],
+  "project": [
+    {
+      "time": "",
+      "title": "去哪儿网 ",
+      "intro": "用Vue框架对去哪儿官网移动端进行重构",
+      "description": "",
+      "tips": [
+        {
+          "title": "实现的主要功能：",
+          "content": [
+            "主体功能实现包括首页，城市列表选择页面，列表搜索页，内容详细页和详细照片展示页。",
+            "利用rem方法进行响应式布局和stylus样式编写，实现在手机端和平板端的适配。",
+            "纯组件式开发，每个页面按照结构分成不同的组件，以便于组件的复用和后期维护。",
+            "利用vue-router单页面间的跳转，vue-axios实现json数据请求，vuex实现页面状态管理，better-scroll和vue-awesome-swiper分别实现滚动特效和首页轮播效果。"
+          ]
+        }
+      ],
+      "technology": [
+        {
+          "title": "技术栈：",
+          "content": [
+            "vue",
+            "vue-cli",
+            "vuex",
+            "stylus",
+            "webpack",
+            "npm"
+          ]
+        }
+      ]
+    },
+    {
+      "time": "",
+      "title": "博客页面",
+      "intro": "扁平化博客站",
+      "description": "",
+      "tips": [
+        {
+          "title": "实现的主要功能：",
+          "content": [
+            "flat-design设计，采用流式布局实现跨平台显示。",
+            "用jquery库响应用户的操作，包括侧栏菜单的现实隐藏，回到顶部的操作，以及过场的动画视效。",
+            "fullpage.js插件实现全屏页面的滚动效果。"
+          ]
+        }
+      ],
+      "technology": [
+        {
+          "title": "技术栈：",
+          "content": [
+            "html",
+            "css",
+            "javascript",
+            "jquery",
+            "font-awesome"
+          ]
+        }
+      ]
+    }
+  ],
+  "usually": [
+    {
+      "name": "GitHub",
+      "link": "https://github.com/primerlee",
+      "description": "follow别人优秀的项目，查看别人如何优雅的实现需求"
+    },
+    {
+      "name": "Stack Overflow",
+      "link": "https://https://stackoverflow.com/",
+      "description": "技术相关的问题在里面都能找到解决方案"
+    },
+    {
+      "name": "MDN",
+      "link": "https://developer.mozilla.org",
+      "description": "查阅web开发的相关技术文档"
+    }
+  ]
+}
